@@ -4,7 +4,7 @@ function status(request, response) {
   // response.status(200).send("são acima da média");
   response.status(200).json({ chave: "status do serviço" });
 
-  //request é a requisição da parte externa
+  //request para requisição externa
 }
 
 export default status;
