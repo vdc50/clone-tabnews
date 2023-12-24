@@ -2,3 +2,6 @@
 node_modules
 biblioteca.env
 .env
+clone-tabnews.git
+clone-tabnews.git.bfg-report
+bfg-1.14.0.jar
