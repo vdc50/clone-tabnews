@@ -22,5 +22,4 @@ function Home() {
 }
 
 export default Home;
-
 // prettier ignora arq /.git /.svn /.hg /node_modules
